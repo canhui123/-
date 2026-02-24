@@ -1,0 +1,20 @@
+Mono path[0] = 'D:/软件/AliceInCradle Win ver028/AliceInCradle_ver028/AliceInCradle_Data/Managed'
+Mono config path = 'D:/软件/AliceInCradle Win ver028/AliceInCradle_ver028/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Initialize engine version: 2021.3.45f1 (0da89fac8e79)
+[Subsystems] Discovering subsystems at path D:/软件/AliceInCradle Win ver028/AliceInCradle_ver028/AliceInCradle_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     4054 MB
+    Driver:   27.20.100.8682
+Begin MonoManager ReloadAssembly
+- Completed reload, in  7.979 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 14.161800 ms
